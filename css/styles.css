@@ -41,7 +41,7 @@ P {
 
 .nav-link {
     font-family: "Monsterrat";
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: 1600;
     color: #fff;
 }
@@ -55,14 +55,6 @@ P {
 
 .download-button {
     margin: 2% 2% 2% 0%;
-}
-
-.title-image {
-    width: 60%;
-}
-
-#features {
-    padding: 7% 15%;
 }
 
 .feature-box {
@@ -85,18 +77,6 @@ P {
     color: #fff;
 }
 
-.testimonial-image {
-    width: 30%;
-    border-radius: 100%;
-    margin: 5px;
-}
-
-#press {
-    background-color: #000;
-    text-align: center;
-    padding-bottom: 3%;
-}
-
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
@@ -116,23 +96,6 @@ P {
     margin-bottom: 20px;
 }
 
-#pricing {
-    padding: 100px;
-}
-
-#pricing h2 {
-    font-size: 3.5rem;
-}
-
-#reviews {
-    text-align: center;
-}
-
-.companyreviews {
-    width: 15%;
-    margin: 20px 20px 50px;
-}
-
 #cta {
     background-color: #fff;
     color: #000;
@@ -149,10 +112,6 @@ P {
 
 #cta h3 {
     text-align: center;
-}
-
-.pricing-column {
-    padding: 3% 2%;
 }
 
 @media (max-width: 1028px) {
