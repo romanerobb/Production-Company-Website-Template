@@ -120,8 +120,17 @@ P {
         text-align: center;
     }
 
+    #slider {
+        text-align: center;
+    }
+
     .title-image {
         position: static;
+    }
+
+    .carousel-item {
+        position: static;
+        text-align: center;
     }
 }
 
